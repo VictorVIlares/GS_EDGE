@@ -1,5 +1,9 @@
 Monitoramento de pH da Água Marinha com ESP32
 
+link: https://wokwi.com/projects/399981095132109825
+
+Descrição do projeto:
+
   Este projeto demonstra um sistema de monitoramento de pH da água marinha utilizando um ESP32, um display LCD 16x2, 15 LEDs e um potenciômetro. 
   O sistema simula a leitura de um sensor de pH e exibe o valor em um display LCD, além de acender os LEDs gradualmente de acordo com a escala de pH (ácido, neutro, alcalino).
   
@@ -36,7 +40,7 @@ Observação:
   
 Dependências:
 
-  -Biblioteca LiquidCrystal_I2C: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
+  -Biblioteca LiquidCrystal_I2C
 
 
 Grupo:
