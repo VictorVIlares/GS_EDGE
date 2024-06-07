@@ -1,8 +1,10 @@
 Monitoramento de pH da Água Marinha com ESP32
+
   Este projeto demonstra um sistema de monitoramento de pH da água marinha utilizando um ESP32, um display LCD 16x2, 15 LEDs e um potenciômetro. 
   O sistema simula a leitura de um sensor de pH e exibe o valor em um display LCD, além de acender os LEDs gradualmente de acordo com a escala de pH (ácido, neutro, alcalino).
   
   Objetivo:
+  
   O objetivo principal do projeto é desenvolver um sistema simples para monitorar a saúde de uma região marinha. 
   Através da visualização do pH da água, pesquisadores podem identificar potenciais problemas de poluição ou desequilíbrio ambiental.
   
