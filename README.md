@@ -43,7 +43,4 @@ Dependências:
   -Biblioteca LiquidCrystal_I2C
 
 
-Grupo:
-Jeferson Gabriel de Mendonça / RM: 553149
-Larissa Estella Gonçalves dos Santos / RM: 552695
 Victor Henrique Vilares Rodrigues / RM: 554175
